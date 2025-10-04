@@ -1,0 +1,26 @@
+state,sanctioned_chargers,operational_chargers,total_evs,infrastructure_gap,ev_per_charger_ratio,tier_classification
+Andaman and Nicobar (Port Blair),10,3.0,0.0,7.0,0.0,High
+Andhra Pradesh,266,327.0,17689.0,0.0,54.09,Medium
+Assam,20,86.0,11946.0,0.0,138.91,Medium
+Bihar,37,124.0,13296.0,0.0,107.23,Medium
+Chandigarh,70,12.0,2141.0,58.0,178.42,Medium
+Chhattisgarh,25,149.0,1257.0,0.0,8.44,High
+Delhi,72,1886.0,18807.0,0.0,9.97,High
+Gujarat,278,476.0,23058.0,0.0,48.44,High
+Haryana,50,377.0,9012.0,0.0,23.9,High
+Himachal Pradesh,10,44.0,1981.0,0.0,45.02,High
+Jammu and Kashmir,25,47.0,0.0,0.0,0.0,High
+Karnataka,172,1041.0,34058.0,0.0,32.72,High
+Kerala,211,852.0,11231.0,0.0,13.18,High
+Madhya Pradesh,235,341.0,3100.0,0.0,9.09,High
+Maharashtra,317,3079.0,41532.0,0.0,13.49,High
+Meghalaya,40,21.0,1440.0,19.0,68.57,Medium
+Odisha,18,198.0,9882.0,0.0,49.91,High
+Puducherry,10,10.0,1671.0,0.0,167.1,Medium
+Rajasthan,205,500.0,3989.0,0.0,7.98,High
+Sikkim,29,2.0,962.0,27.0,481.0,Low
+Tamil Nadu,281,643.0,26464.0,0.0,41.16,High
+Telangana,138,481.0,5662.0,0.0,11.77,High
+Uttar Pradesh,207,582.0,53388.0,0.0,91.73,Medium
+Uttarakhand,10,76.0,2953.0,0.0,38.86,High
+West Bengal,141,318.0,7325.0,0.0,23.03,High
